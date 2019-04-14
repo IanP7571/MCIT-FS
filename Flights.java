@@ -1,3 +1,9 @@
+
+/**
+ * The Airlines Class is for making a Flight object.
+ * @author IanPark
+ * Comments: Peter Brice
+ */
 package Airlines;
 
 public class Flights {

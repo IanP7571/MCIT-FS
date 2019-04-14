@@ -1,7 +1,7 @@
 package Airlines;
 
 public class Flights {
-	String DayofMonth;
+	String DayOfMonth;
 	String DayOfWeek;
 	String FlightDate;
 	String UniqueCarrier;
